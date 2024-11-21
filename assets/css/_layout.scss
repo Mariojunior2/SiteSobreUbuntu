@@ -20,20 +20,20 @@ section {
     align-items: center;
     flex-direction: column;
     text-align: center;
-    margin: 20px;
+    margin: 0px;
 }
 
 header {
     background-color: $header-bg;
     color: $text-color;
-    padding: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding-top: 20px;
+
 }
 
 main {
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0px;
 }
 
 footer {
