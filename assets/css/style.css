@@ -1,6 +1,6 @@
 body {
   font-family: "Helvetica", sans-serif;
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   color: #2c2c2c;
   line-height: 1.6;
   margin: 0;
@@ -19,7 +19,7 @@ section {
 }
 
 header {
-  background-color: #f8f8f8;
+  background-color: #ffffff;
   color: #2c2c2c;
   padding: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
